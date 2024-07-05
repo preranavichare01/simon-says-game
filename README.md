@@ -11,6 +11,6 @@
 4. If the player repeats the sequence correctly, they proceed to the next round.
 5. If the player makes a mistake, the game is over and they can try again.
 
-**##Try It**
+## Try it
 You can try the game at the following link:
 [Simon Says Game](https://66681db90e46b1e225e3559c--dazzling-tapioca-cc6fb4.netlify.app/)
