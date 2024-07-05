@@ -1,0 +1,46 @@
+body {
+    text-align: center;
+    background-color: black;
+    color:white;
+  }
+  h1{
+    color:lightseagreen;
+ font-size: 40px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  .btn {
+    height: 130px;
+    width: 130px;
+    border-radius: 20%;
+    border: 5px solid grey;
+    margin: 1.5rem;
+  }
+  
+  .btn-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .yellow {
+    background-color:rgba(255, 255, 0, 0.851);
+  }
+  
+  .red {
+    background-color: rgba(255, 0, 0, 0.693);
+  }
+  /*change color purple to blue*/
+  .purple {
+    background-color: rgba(0, 0, 255, 0.602);
+  }
+  
+  .green {
+    background-color: #18db59c4;
+  }
+  
+  .flash {
+    background-color:black;
+  }
+  
+  .userflash {
+    background-color: white;
+  }
