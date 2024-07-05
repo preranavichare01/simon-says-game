@@ -3,7 +3,7 @@
 ## Technologies Used
 - JavaScript
 - HTML
-- Java
+- CSS
 ## Game Rules
 1. The game will display a series of button presses.
 2. Players must repeat the sequence of button presses in the correct order.
